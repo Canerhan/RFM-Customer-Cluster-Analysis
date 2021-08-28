@@ -1,5 +1,4 @@
 # Definition of the RFM Analysis
-==================================
 
 ![Cluserting](images\RFM Customer Analysis.png)
 
@@ -21,7 +20,7 @@ For further Information you can read [this artikel](https://cdn.intechopen.com/p
 
 
 # The Data
-==================================
+
 The source of the used data is on [kaggle](https://www.kaggle.com/benroshan/ecommerce-data).
 
 The data includes 3 csv files:
