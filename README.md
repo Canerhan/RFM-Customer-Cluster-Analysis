@@ -1,6 +1,6 @@
 # Definition of the RFM Analysis
 
-![](images/RFM Customer Analysis.png)
+![RFM-Plot](images/RFM-Plot.png)
 
 The RFM analysis is a marketing technique for analyzing customers.<br>
 RFM is clustering customers based on 3 aspects:
@@ -22,6 +22,8 @@ For further Information you can read [this artikel](https://cdn.intechopen.com/p
 # The Data
 
 The source of the used data is on [kaggle](https://www.kaggle.com/benroshan/ecommerce-data).
+
+The Data is also included in this [Repo](data).
 
 The data includes 3 csv files:
 1. List of Orders <br>
