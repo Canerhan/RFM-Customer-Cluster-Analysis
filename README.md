@@ -1,6 +1,6 @@
 # Definition of the RFM Analysis
 
-![Cluserting](images\RFM Customer Analysis.png)
+![](images/RFM Customer Analysis.png)
 
 The RFM analysis is a marketing technique for analyzing customers.<br>
 RFM is clustering customers based on 3 aspects:
